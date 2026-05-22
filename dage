@@ -1,9 +1,0 @@
-#include<stdio.h>
-using namespace std;
-int main()
-{
-cout<<"111"<<endl;
-return 0;
-cout<<"1"<<endl;
-cout<<"2"<<endl;
-}
